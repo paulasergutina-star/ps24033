@@ -7,4 +7,8 @@ b = 5
 print(plus(a,b))
 print(mult(a,b))
 
+<<<<<<< HEAD
 print(minus(a,b))
+=======
+print(div(a,b))
+>>>>>>> mult
